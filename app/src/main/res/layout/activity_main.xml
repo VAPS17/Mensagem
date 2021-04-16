@@ -16,7 +16,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:ems="10"
-        android:hint="@string/mensagem"
+        android:hint="message"
         android:inputType="textPersonName"
         app:layout_constraintEnd_toStartOf="@+id/buttonEnviar"
         app:layout_constraintHorizontal_bias="0.0"
