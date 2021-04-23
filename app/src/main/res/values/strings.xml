@@ -3,5 +3,6 @@
     <string name="enviar">Send</string>
     <string name="mensagem">Message</string>
     <string name="mensagem_recebida">Message received</string>
-    <string name="message">message</string>
+    <string name="message">Message</string>
+    <string name="mensagem_vazia">Please specify a message.</string>
 </resources>
