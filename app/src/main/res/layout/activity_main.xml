@@ -28,6 +28,6 @@
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:layout_weight="0"
-        android:onClick="EnviarMenagem"
+        android:onClick="enviarMenagem"
         android:text="@string/enviar" />
 </LinearLayout>
