@@ -20,6 +20,6 @@ class MostraMensagemActivity : AppCompatActivity() {
         val df = java.text.SimpleDateFormat("HH:mm:ss")
 
         textViewMensagem.setText(mensagem)
-        dataView.setText(data.toString())
+        dataView.setText(df.format(data))
     }
 }
